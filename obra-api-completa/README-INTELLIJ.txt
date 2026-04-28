@@ -1,0 +1,1 @@
+Abra no IntelliJ IDEA como projeto Maven e execute Application.java\nURL: http://localhost:8080\nSwagger: http://localhost:8080/swagger-ui/index.html
